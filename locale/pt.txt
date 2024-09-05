@@ -1,5 +1,11 @@
 #: locale=pt
 
+## Action
+
+### URL
+LinkBehaviour_D0E47D98_C352_B13A_41E2_67DDBA811335.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_D7287ED8_C34F_B33A_41E8_027258595326.source = https://www.instagram.com/msolutiondigital/
+
 ## Media
 
 ### Audio
@@ -15,6 +21,12 @@ panorama_C886EBA6_C332_7116_41E2_13BB37974142.label = 20240530_135157_105
 panorama_C8857E6C_C332_B31A_41BA_0E7F4882C355.label = 20240530_135220_717
 
 ## Skin
+
+### Image
+Image_D0116A85_C352_D30A_419A_7A759F510897.url = skin/Image_D0116A85_C352_D30A_419A_7A759F510897_pt.png
+Image_D730A757_C336_5136_419D_9AB7F88DEF12.url = skin/Image_D730A757_C336_5136_419D_9AB7F88DEF12_pt.png
+Image_D788C485_C336_D70A_41E3_F8BBA509C815.url = skin/Image_D788C485_C336_D70A_41E3_F8BBA509C815_pt.png
+Image_D7A648B2_C34E_DF0E_41D1_411F52D32BFD.url = skin/Image_D7A648B2_C34E_DF0E_41D1_411F52D32BFD_pt.png
 
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen

@@ -5,11 +5,13 @@
 ### URL
 LinkBehaviour_D0E47D98_C352_B13A_41E2_67DDBA811335.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_D7287ED8_C34F_B33A_41E8_027258595326.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_D5B15C64_C3D2_7709_41A7_B12B3F2123BA.source = https://www.instagram.com/yaracristina_beautyacademy/
+LinkBehaviour_D6989CEF_C3D6_F716_41C6_A04E4C484221.source = https://www.instagram.com/yaracristina_beautyacademy/
 
 ## Media
 
 ### Audio
-audiores_D2073D8D_C356_511A_41E3_6F1571FF010F.mp3Url = media/audio_CE1B1ED2_C352_530E_41DE_F3B8EC48854F_pt.mp3
+audiores_D60B48C5_C3DF_BF0A_41CA_89BED17C43EA.mp3Url = media/audio_D5A7C6E5_C3DF_B30A_41E0_2B3005D2F3AB_pt.mp3
 
 ### Title
 panorama_CE1C6496_C332_5736_41DD_BF578034E859.label = 20240530_135004_349

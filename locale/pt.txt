@@ -1,0 +1,29 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_D2073D8D_C356_511A_41E3_6F1571FF010F.mp3Url = media/audio_CE1B1ED2_C352_530E_41DE_F3B8EC48854F_pt.mp3
+
+### Title
+panorama_CE1C6496_C332_5736_41DD_BF578034E859.label = 20240530_135004_349
+panorama_C887090A_C332_5119_41E3_3551C25961FD.label = 20240530_135031_629
+panorama_C8877068_C332_EF1A_41E4_D3CB37012FDA.label = 20240530_135104_078
+panorama_C887438C_C332_D11A_41D1_DFAC81DD6E66.label = 20240530_135122_252
+panorama_C8873647_C332_B316_41B1_4E3BB1B20C97.label = 20240530_135138_483
+panorama_C886EBA6_C332_7116_41E2_13BB37974142.label = 20240530_135157_105
+panorama_C8857E6C_C332_B31A_41BA_0E7F4882C355.label = 20240530_135220_717
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Est. da Riviera, 1532 - sala 1 - Guarapiranga, São Paulo 
+
+### Title
+tour.name = Yara Cristina Beauty Academy - Tour Virtual 360°
